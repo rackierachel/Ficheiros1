@@ -8,6 +8,4 @@ package ficheiros1;
  *
  * @author rcustodio
  */
-class Ficheiro {
-    
-}
+
